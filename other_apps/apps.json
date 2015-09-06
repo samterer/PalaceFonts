@@ -1,8 +1,4 @@
-[{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/thumbs/com.monotype.android.font.pal.love/ic_launcher.png",
-	"app_name": "Love fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.love"
-},
+[
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/round.png",
 	"app_name": "Round fonts",
@@ -12,6 +8,11 @@
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand.png",
 	"app_name": "Hand fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.hand"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/thumbs/com.monotype.android.font.pal.love/ic_launcher.png",
+	"app_name": "Love fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.love"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic.png",
