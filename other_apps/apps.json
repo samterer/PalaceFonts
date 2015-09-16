@@ -1,4 +1,9 @@
 [{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic2.png",
+	"app_name": "خطوط عربية",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.arabic"
+},
+{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/script.png",
 	"app_name": "Script fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.script"
@@ -25,7 +30,7 @@
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic.png",
-	"app_name": "Arabic fonts",
+	"app_name": "خطوط عربية",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.arabica"
 },
 {
