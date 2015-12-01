@@ -1,12 +1,22 @@
 [{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/halloween.png",
-	"app_name": "Halloween fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.halloween"
-},
-{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/girly.png",
 	"app_name": "Girl fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.girly"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand.png",
+	"app_name": "Hand fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.hand"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/light.png",
+	"app_name": "Light fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.light"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/halloween.png",
+	"app_name": "Halloween fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.halloween"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/oldenglish.png",
@@ -24,19 +34,9 @@
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.script"
 },
 {
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/light.png",
-	"app_name": "Light fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.light"
-},
-{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/round.png",
 	"app_name": "Round fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.round"
-},
-{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand.png",
-	"app_name": "Hand fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.hand"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/thumbs/com.monotype.android.font.pal.love/ic_launcher.png",
