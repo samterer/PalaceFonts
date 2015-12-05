@@ -1,4 +1,9 @@
 [{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/deutsch.png",
+	"app_name": "Deutsch fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.deutsch"
+},
+{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/girly.png",
 	"app_name": "Girl fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.girly"
