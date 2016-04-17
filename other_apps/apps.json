@@ -1,4 +1,9 @@
 [{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/votd.png",
+	"app_name": "Daily Verse",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.bible.daily.verse"
+},
+{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/native_round.png",
 	"app_name": "Round fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.bel.round"
