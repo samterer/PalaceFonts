@@ -1,4 +1,9 @@
 [{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic.png",
+	"app_name": "Arabic",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.arabica"
+},
+{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/native_round.png",
 	"app_name": "Round fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.bel.round"
@@ -52,11 +57,6 @@
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/thumbs/com.monotype.android.font.pal.love/ic_launcher.png",
 	"app_name": "Love fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.love"
-},
-{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic.png",
-	"app_name": "Arabic fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.arabica"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/pencil.png",
