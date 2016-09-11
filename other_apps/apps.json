@@ -1,4 +1,8 @@
-[
+[{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hive_clean.png",
+	"app_name": "Clean fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.hive.clean"
+},
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic.png",
 	"app_name": "Arabic",
