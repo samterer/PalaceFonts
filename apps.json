@@ -1,5 +1,8 @@
-[
-	{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/romance.png",
+[{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/font_resize1.png",
+	"app_name": "Font Resizer",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.tools.font.resizer"
+ },
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/romance.png",
 	"app_name": "Romance",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.romance"
  	},
