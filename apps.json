@@ -1,4 +1,17 @@
-[{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/font_resize1.png",
+[
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/girly2.png",
+	"app_name": "Girly Fonts for Samsung Galaxy",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.girly"
+ },
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/rounded.png",
+	"app_name": "แบบอักษรไทยสำหรับ Samsung Galaxy",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.thaione"
+ },
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/rounded.png",
+	"app_name": "Rounded Fonts for Samsung Galaxy",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.round"
+ },
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/font_resize1.png",
 	"app_name": "Font Resizer",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.tools.font.resizer"
  },
