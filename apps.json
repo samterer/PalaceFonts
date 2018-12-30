@@ -1,4 +1,9 @@
-[{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand_galaxy.png",
+[
+{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/gal_script.png",
+	"app_name": "Script Samsung \nFonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.scripted"
+ },
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand_galaxy.png",
 	"app_name": "Samsung \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.gal.hand"
  },
