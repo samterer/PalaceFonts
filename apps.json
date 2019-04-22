@@ -15,37 +15,13 @@
 	"app_name": "Direct \nChat",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.sam.directchat"
  },
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/snine.png",
-	"app_name": "Samsung S9\nFonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.kim.snine"
- },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/gal_script.png",
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/gal_script.png",
 	"app_name": "Script Samsung \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.scripted"
  },
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand_galaxy.png",
+{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand_galaxy.png",
 	"app_name": "Samsung \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.gal.hand"
- },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/samsung_changer1.png",
-	"app_name": "Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.kim.changerone"
- },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/light_samsung.png",
-	"app_name": "Light Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.kim.light"
- },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/samsung_cute.png",
-	"app_name": "Cute Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.kim.cute"
- },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/samsung_love.png",
-	"app_name": "Love Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.kim.love"
- },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/samsung_arabic.png",
-	"app_name": "الخطوط العربية \n لسامسونج",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.kim.arabic"
  },
 {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/fakechats.png",
 	"app_name": "Prank Chats for WhatsApp",
@@ -54,43 +30,48 @@
 {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/stylishnative.png",
 	"app_name": "Stylish Fonts \nfor Samsung",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.natives.stylish"
- },{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/stylishsam.png",
-	"app_name": "Stylish Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.stylishfonts"
  },
-{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hand1234.png",
-	"app_name": "Hand Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.hand"
- },	
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/girly2.png",
-	"app_name": "Girly Fonts\n for Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.girly"
- },
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/thaione.png",
-	"app_name": "แบบอักษรไทยสำหรับ \nSamsung Galaxy",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.thaione"
- },
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/rounded.png",
-	"app_name": "Rounded Fonts \nfor Samsung",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.kim.round"
- },
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/font_resize1.png",
+{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/font_resize1.png",
 	"app_name": "Font Resizer",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.tools.font.resizer"
  },
- {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/romance.png",
-	"app_name": "Romance",
+{"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/romance.png",
+	"app_name": "Romance fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.romance"
- 	},
+ },	
+ {"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/thailando144.png",
+	"app_name": "Thai fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.thai"
+ },
 	{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/thailando144.png",
-	"app_name": "Thai",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.thailando"
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/script.png",
+	"app_name": "Script fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.script"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/light.png",
+	"app_name": "Light fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.light"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hive_clean.png",
+	"app_name": "Clean fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.hive.clean"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic.png",
 	"app_name": "Arabic",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.glad.arabica"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hive_love.png",
+	"app_name": "Love fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.hive.lovely"
+},
+{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/hive_hand.png",
+	"app_name": "Hand fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.hive.hand"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/native_round.png",
@@ -113,11 +94,6 @@
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.hand"
 },
 {
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/light.png",
-	"app_name": "Light fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.light"
-},
-{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/halloween.png",
 	"app_name": "Halloween fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.halloween"
@@ -131,11 +107,6 @@
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/arabic2.png",
 	"app_name": "Arabic fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.arabic"
-},
-{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/script.png",
-	"app_name": "Script fonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.pal.script"
 },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/round.png",
