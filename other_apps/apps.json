@@ -1,4 +1,19 @@
 [{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_classic.png",
+	"app_name": "Classic Samsung \nFonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.classic"
+ },
+ {
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_arabic.png",
+	"app_name": "الخطوط العربية",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.arabic"
+ },
+ {
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_thai.png",
+	"app_name": "แบบอักษรไทย",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.thai"
+ },
+ {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_hand.png",
 	"app_name": "Hand Samsung \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.hand"
