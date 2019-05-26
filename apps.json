@@ -1,4 +1,9 @@
 [{
+	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_girl.png",
+	"app_name": "Girl Fonts",
+	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.girly”
+ },
+ {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_classic.png",
 	"app_name": "Classic Samsung \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.classic"
