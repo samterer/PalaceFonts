@@ -1,34 +1,14 @@
 [{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_huawei_stylish.png",
-	"app_name": "Huawei \nFonts",
+	"app_name": "Huawei Stylish \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.huaweistylish"
- },
- {
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/huawei_stylish.png",
-	"app_name": "Stylish Huawei \nFonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.unique.huawei.stylish"
- },
-{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/classy_text.png",
-	"app_name": "𝔾𝕖𝕟𝕖𝕣𝕒𝕥𝕖 ℭ𝔬𝔬𝔩 𝘚𝘵𝘺𝘭𝘪𝘴𝘩 ʇxǝʇ",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.unique.classytext"
- },
- {
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/unique_thai.png",
-	"app_name": "แบบอักษรของ \nHuawei",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.unique.huawei.thai"
  },
 {
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_girl.png",
 	"app_name": "Girl Fonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.girly"
  },
-	{
-	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/unique_hand.png",
-	"app_name": "Huawei Hand \nFonts",
-	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.unique.huawei.hand"
- },
-	{
+{
 	"app_thumb_url": "https://raw.githubusercontent.com/samterer/PalaceFonts/master/other_apps/thumbs/royal_classic.png",
 	"app_name": "Classic Samsung \nFonts",
 	"app_play_url": "https://play.google.com/store/apps/details?id=com.monotype.android.font.royale.classic"
