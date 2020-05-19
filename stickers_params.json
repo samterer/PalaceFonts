@@ -34,10 +34,10 @@
         "stroke_width": 43,
         "text_size": 88,
         "threed_darkening":70,
-        "threed_effect_size": 0,
+        "threed_effect_size": 1,
         "threed_enabled": 1,
-        "threed_x_rotate": 0,
-        "threed_y_rotate": 0,
+        "threed_x_rotate": 1,
+        "threed_y_rotate": 3,
         "threed_z_rotate": 0,
         "font_name": "UTMAlbaMatter.ttf"
     }
