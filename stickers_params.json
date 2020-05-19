@@ -11,5 +11,18 @@
         "threed_x_rotate": 5,
         "threed_y_rotate": 3,
         "threed_z_rotate": 0
+    },
+    {
+        "_id": 2,
+        "stroke_color": 1862336447,
+        "stroke_enabled": 0,
+        "stroke_width": 14,
+        "text_size": 40,
+        "threed_darkening":38,
+        "threed_effect_size": 107,
+        "threed_enabled": 1,
+        "threed_x_rotate": 5,
+        "threed_y_rotate": 3,
+        "threed_z_rotate": 0
     }
 ]
