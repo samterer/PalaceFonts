@@ -30,8 +30,8 @@
     {
         "_id": 3,
         "stroke_color": 1862336447,
-        "stroke_enabled": 0,
-        "stroke_width": 14,
+        "stroke_enabled": 1,
+        "stroke_width": 43,
         "text_size": 88,
         "threed_darkening":70,
         "threed_effect_size": 0,
