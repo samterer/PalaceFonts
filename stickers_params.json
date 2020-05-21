@@ -21,7 +21,7 @@
         "text_size": 40,
         "threed_darkening":38,
         "threed_effect_size": 107,
-        "threed_enabled": 1,
+        "threed_enabled": 0,
         "threed_x_rotate": 5,
         "threed_y_rotate": 3,
         "threed_z_rotate": 0,
