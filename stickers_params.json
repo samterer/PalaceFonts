@@ -11,7 +11,7 @@
         "threed_x_rotate": 5,
         "threed_y_rotate": 3,
         "threed_z_rotate": 0,
-        "shadow_color": -1,
+        "shadow_color": 1,
         "font_name": "aDevonshire-Regular.ttf"
     },
     {
@@ -26,7 +26,7 @@
         "threed_x_rotate": 5,
         "threed_y_rotate": 3,
         "threed_z_rotate": 0,
-        "shadow_color": -1,
+        "shadow_color": 1,
         "font_name": "UTMSarah.ttf"
     },
     {
