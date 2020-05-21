@@ -25,6 +25,7 @@
         "threed_x_rotate": 5,
         "threed_y_rotate": 3,
         "threed_z_rotate": 0,
+        "shadow_color": -1,
         "font_name": "UTMSarah.ttf"
     },
     {
@@ -39,6 +40,7 @@
         "threed_x_rotate": 0,
         "threed_y_rotate": 0,
         "threed_z_rotate": 0,
+        "shadow_color": -1,
         "font_name": "UTMAlbaMatter.ttf"
     }
     ,
@@ -54,6 +56,7 @@
         "threed_x_rotate": 0,
         "threed_y_rotate": 0,
         "threed_z_rotate": 0,
+        "shadow_color": -1,
         "font_name": "UTMAlbaMatter.ttf"
     }
 ]
