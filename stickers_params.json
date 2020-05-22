@@ -16,7 +16,7 @@
     {
         "_id": 1,
         "stroke_color": 1862336447,
-        "stroke_enabled": 0,
+        "stroke_enabled": 1,
         "stroke_width": 14,
         "text_size": 70,
         "threed_darkening": 68,
