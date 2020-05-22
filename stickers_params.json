@@ -1,4 +1,18 @@
-[
+[{
+        "_id": 5,
+        "stroke_color": 1862336447,
+        "stroke_enabled": 1,
+        "stroke_width": 1,
+        "text_size": 88,
+        "threed_darkening":70,
+        "threed_effect_size": 60,
+        "threed_enabled": 1,
+        "threed_x_rotate": 3,
+        "threed_y_rotate": 0,
+        "threed_z_rotate": 0,
+        "shadow_color": -12165633,
+        "font_name": "UTMAzuki.ttf"
+    },
     {
         "_id": 1,
         "stroke_color": 1862336447,
