@@ -1,5 +1,35 @@
 [
     {
+        "_id": 1,
+        "stroke_color": 1862336447,
+        "stroke_enabled": 0,
+        "stroke_width": 14,
+        "text_size": 70,
+        "threed_darkening": 68,
+        "threed_effect_size": 117,
+        "threed_enabled": 1,
+        "threed_x_rotate": 5,
+        "threed_y_rotate": 3,
+        "threed_z_rotate": 0,
+        "shadow_color": 1862336447,
+        "font_name": "aDevonshire-Regular.ttf"
+    },
+    {
+        "_id": 2,
+        "stroke_color": 1862336447,
+        "stroke_enabled": 0,
+        "stroke_width": 14,
+        "text_size": 40,
+        "threed_darkening":38,
+        "threed_effect_size": 107,
+        "threed_enabled": 0,
+        "threed_x_rotate": 5,
+        "threed_y_rotate": 3,
+        "threed_z_rotate": 0,
+        "shadow_color": 1862336447,
+        "font_name": "UTMSarah.ttf"
+    },
+    {
         "_id": 3,
         "stroke_color": 1862336447,
         "stroke_enabled": 1,
