@@ -44,20 +44,4 @@
         "shadow_color": -1,
         "font_name": "UTMAlbaMatter.ttf"
     }
-    ,
-    {
-        "_id": 4,
-        "stroke_color": 1862336447,
-        "stroke_enabled": 1,
-        "stroke_width": 50,
-        "text_size": 88,
-        "threed_darkening":70,
-        "threed_effect_size": 60,
-        "threed_enabled": 0,
-        "threed_x_rotate": 0,
-        "threed_y_rotate": 0,
-        "threed_z_rotate": 0,
-        "shadow_color": -1,
-        "font_name": "UTMAzuki.ttf"
-    }
 ]
